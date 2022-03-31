@@ -1,0 +1,27 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://www.jordancio.com"
+    xmlns="https://www.jordancio.com" elementFormDefault="qualified">
+    <xs:element name="atestados">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="atestado" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="DILIG"></xs:element>
+                            <xs:element name="LUGAR"></xs:element>
+                            <xs:element name="ALTURA_DE"></xs:element>
+                            <xs:element name="FECHA"></xs:element>
+                            <xs:element name="HORA"></xs:element>
+                            <xs:element name="VEHICULOS"></xs:element>
+                            <xs:element name="HERIDOS"></xs:element>
+                            <xs:element name="DESTINO"></xs:element>
+                            <xs:element name="COLISION"></xs:element>
+                            <xs:element name="INFR_COND"></xs:element>
+                            <xs:element name="INFR_PEAT"></xs:element>
+                            <xs:element name="DENUNCIAS"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

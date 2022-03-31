@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atestados xmlns="https://www.jordancio.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://www.jordancio.com atestadosLasPalmas.xsd">
+    <atestado>
+        <DILIG>2</DILIG>
+        <LUGAR>SERVENTIA Nº 326</LUGAR>
+        <ALTURA_DE />
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>03:20</HORA>
+        <VEHICULOS>1</VEHICULOS>
+        <HERIDOS>2</HERIDOS>
+        <DESTINO>Juzgado</DESTINO>
+        <COLISION>Otros</COLISION>
+        <INFR_COND>Inexperiencia del conductor</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+    <atestado>
+        <DILIG>3</DILIG>
+        <LUGAR>AVDA. GUILLERMO SANTANA RIVERO</LUGAR>
+        <ALTURA_DE>1</ALTURA_DE>
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>07:50</HORA>
+        <VEHICULOS>1</VEHICULOS>
+        <HERIDOS>0</HERIDOS>
+        <DESTINO>Jefatura</DESTINO>
+        <COLISION>Vuelco</COLISION>
+        <INFR_COND>Velocidad inadecuada</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+    <atestado>
+        <DILIG>7</DILIG>
+        <LUGAR>CASABLANCA III</LUGAR>
+        <ALTURA_DE>URB. RESIDENCIAL MESTISAY</ALTURA_DE>
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>14:15</HORA>
+        <VEHICULOS>2</VEHICULOS>
+        <HERIDOS>0</HERIDOS>
+        <DESTINO>Jefatura</DESTINO>
+        <COLISION>Colisión</COLISION>
+        <INFR_COND>Sin definir</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+</atestados>

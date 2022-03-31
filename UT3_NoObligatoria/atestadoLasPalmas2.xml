@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atestados xmlns="https://www.jordancio.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://www.jordancio.com atestadosLasPalmas.xsd">
+    <atestado>
+        <DILIG>5</DILIG>
+        <LUGAR>PUENTE ELEVADO LA BALLENA</LUGAR>
+        <ALTURA_DE />
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>06:20</HORA>
+        <VEHICULOS>2</VEHICULOS>
+        <HERIDOS>1</HERIDOS>
+        <DESTINO>Jefatura</DESTINO>
+        <COLISION>Colisión</COLISION>
+        <INFR_COND>No mantener el intervalo seg.</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+    <atestado>
+        <DILIG>6</DILIG>
+        <LUGAR>ANA BENITEZ</LUGAR>
+        <ALTURA_DE>1</ALTURA_DE>
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>14:00</HORA>
+        <VEHICULOS>6</VEHICULOS>
+        <HERIDOS>0</HERIDOS>
+        <DESTINO>Jefatura</DESTINO>
+        <COLISION>Colisión</COLISION>
+        <INFR_COND>Sin definir</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+    <atestado>
+        <DILIG>8</DILIG>
+        <LUGAR>ROTONDA EL CARDON</LUGAR>
+        <ALTURA_DE>ARCHIVERO JOAQUIN BLANCO MONTESDEOCA</ALTURA_DE>
+        <FECHA>2014-01-01T00:00:00</FECHA>
+        <HORA>09:45</HORA>
+        <VEHICULOS>2</VEHICULOS>
+        <HERIDOS>0</HERIDOS>
+        <DESTINO>Juzgado</DESTINO>
+        <COLISION>Colisión</COLISION>
+        <INFR_COND>No mantener el intervalo seg.</INFR_COND>
+        <INFR_PEAT>Ninguna infracción</INFR_PEAT>
+        <DENUNCIAS>0</DENUNCIAS>
+    </atestado>
+</atestados>
