@@ -8,11 +8,11 @@ These xml are used to save the data of Police attestations on 2014 in Las Palmas
 
 * XML:
 
-![create product](https://github.com/tcrurav/XmlRESTfulNodeJSfromJS/blob/master/web/img/create_product.png)
+![create product](https://github.com/JordanJTY/XmlRESTful/blob/main/UT3_NoObligatoria/img/xml.PNG)
 
 * XSD:
 
-![show products](https://github.com/tcrurav/XmlRESTfulNodeJSfromJS/blob/master/web/img/show_products.png)
+![show products](https://github.com/JordanJTY/XmlRESTful/blob/main/UT3_NoObligatoria/img/xsd.PNG)
 
 ### XML and XSD files 
 XML:
@@ -66,12 +66,6 @@ XSD:
     </xs:element>
 </xs:schema>
 ```
-
-# Validation screenshots
-
-A validation of xml. 
-
-![validation test](https://github.com/tcrurav/XmlRESTfulNodeJSfromJS/blob/master/web/img/products_validation.png)
 
 ## Acknowledgments
 
